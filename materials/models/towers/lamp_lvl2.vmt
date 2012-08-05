@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/towers/lamp_lvl2"
+	"$phong" "1"
+              "$basemapalphaphongmask" "1"
+	"$phongexponent" "66"
+	"$phongboost"	"6"
+	"$phongfresnelranges"	"[ .5 .5 .5 ]"
+
+}

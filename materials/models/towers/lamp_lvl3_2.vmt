@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/towers/lamp_lvl3_2"
+	"$envmap" "env_cubemap"
+	"$basealphaenvmask" "1"
+	"$envmaptint"	"[ .8 .8 .8 ]"
+}

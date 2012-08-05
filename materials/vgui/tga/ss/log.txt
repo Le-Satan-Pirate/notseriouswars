@@ -1,0 +1,2 @@
+input file: C:/progra~1/Steam/steamapps/sourcemods/notseriouswars_client_dev_latest/materials/vgui/tga/ss
+Hit a key to continue
