@@ -1,7 +1,7 @@
 "GameInfo"
 {
 	// This is what shows up in the 'Third Party Games' area of the Steam games list.
-	game						"Not Serious Wars"
+	game						"NotSeriousWars"
 	type 						multiplayer_only
 //	type 						singleplayer_only
 
