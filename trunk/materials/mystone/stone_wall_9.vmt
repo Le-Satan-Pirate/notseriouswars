@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+
+{
+	"$basetexture" "mystone/stone_wall_9"
+	"$heightmap" "mystone/stone_wall_9_n"
+	"$surfaceprop" "Rock"
+}

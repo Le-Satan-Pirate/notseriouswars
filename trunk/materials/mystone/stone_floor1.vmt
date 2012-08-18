@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "mystone/stone_floor1"
+	"$bumpmap" "mystone/stone_floor1_n"
+	"$normalmap" "mystone/stone_floor1_b"
+	"$translucent" 1
+}

@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "mywood/wood1"
+	"$bumpmap" "mywood/wood1_n"
+"$parallaxmap" "mystone/wood1_b"
+}
