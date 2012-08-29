@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/aztec/palm_tree_trunk"
+	"$surfaceprop" "wood"
+//	"$bumpmap" "models/aztec/palm_tree_trunk_normal"
+}
