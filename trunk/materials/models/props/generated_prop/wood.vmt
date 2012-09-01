@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+"$basetexture" "wood"
+	"$bumpmap" "wood_n"
+"$parallaxmapscale" 0.5
+}

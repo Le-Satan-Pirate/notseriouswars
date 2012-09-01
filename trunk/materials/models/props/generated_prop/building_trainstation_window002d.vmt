@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "building_template/building_trainstation_window002d"
+	"$surfaceprop" "glass"
+	"$selfillum" 1
+}

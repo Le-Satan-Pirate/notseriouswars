@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "stonewall_1"
+"$bumpmap" "stonewall_1_normal"
+
+	"$surfaceprop" "rock"
+}
