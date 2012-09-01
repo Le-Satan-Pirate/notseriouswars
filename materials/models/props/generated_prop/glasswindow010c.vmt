@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "glass/glasswindow010c"
+	"$surfaceprop" "glass"
+	"%keywords" "c17skyscraper"
+	"$translucent" 1
+}

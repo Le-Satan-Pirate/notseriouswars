@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "stonewall_2"
+	"$bumpmap" "stonewall_2_normal"
+}

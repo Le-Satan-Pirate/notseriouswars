@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	// original shader: basetimeslightmap
+	"$basetexture" "plaster/plasterwall008a"
+	"$surfaceprop" "plaster"
+	"%keywords" "c17downtown"
+}
