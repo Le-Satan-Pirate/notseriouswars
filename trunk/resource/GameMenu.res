@@ -38,8 +38,16 @@
 	{
 		"label" "#GameUI_GameMenu_Options"
 		"command" "OpenOptionsDialog"
+		
 	}
+	
 	"8"
+	{
+		"label" "#GameUI_Credits"
+		"command" "engine ToggleCreditsPanel"
+	}
+	
+	"9"
 	{
 		"label" "#GameUI_GameMenu_Quit"
 		"command" "Quit"
