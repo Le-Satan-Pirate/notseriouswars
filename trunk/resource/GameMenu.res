@@ -36,18 +36,23 @@
 	}
 	"7"
 	{
+		"label" "#GameUI_CharacterSelect"
+		"command" "engine ToggleCharacterSelectPanel"		
+	}
+	"8"
+	{
 		"label" "#GameUI_GameMenu_Options"
 		"command" "OpenOptionsDialog"
 		
 	}
 	
-	"8"
+	"9"
 	{
 		"label" "#GameUI_Credits"
 		"command" "engine ToggleCreditsPanel"
 	}
 	
-	"9"
+	"10"
 	{
 		"label" "#GameUI_GameMenu_Quit"
 		"command" "Quit"
