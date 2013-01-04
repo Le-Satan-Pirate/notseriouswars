@@ -170,12 +170,13 @@ Scheme
 		Tooltip.BgColor				"Green"
 
 		TreeView.BgColor			"TransparentBlack"
-
+		//TreeView.BgColor			"Blank"
 		WizardSubPanel.BgColor		"Blank"
 
 		// scheme-specific colors
 		MainMenu.TextColor			"White"
-		MainMenu.ArmedTextColor		"200 200 200 255"
+		//MainMenu.ArmedTextColor		"200 200 200 255"
+		MainMenu.ArmedTextColor		"Green"
 		MainMenu.DepressedTextColor	"192 186 80 255"
 		MainMenu.MenuItemHeight		"30"
 		MainMenu.Inset				"32"
