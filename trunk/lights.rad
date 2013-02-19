@@ -55,3 +55,7 @@ building_template/Building_Trainstation_window002d	230 230 200 300
 building_template/Building_Trainstation_window002e	230 230 200 300
 
 lights/physgunlight	189 231 232 20
+
+MyGlass/glass2	0 74 20 400000
+MyGlass/glass	228 12 12 400000
+MyGlass/glass1	91 32 136 400000

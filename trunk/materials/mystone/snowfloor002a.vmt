@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Nature/snowfloor002a"
+	"$basetexture2" "mystone/icerock"
+	"$surfaceprop" "snow"
+	"%keywords" "blend" 
+}
