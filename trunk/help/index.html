@@ -1,34 +1,80 @@
 <style>
 
-p{
-font-family: arial;
-font-style:normal;
+body {
+color:#999999;
+font-family:arial;
 }
+
+a { 
+letter-spacing: 2px;
+color:green; 
+}
+
+
+
 
 </style>
 
 <img src="img\sourcesdk.png" height="250" width="250"><img src="img\help_m_logo_01.png"></br>
 
 <hr><p>
-<a href="#">Главная<a> | <a href="#">Руководство<a> | <a href="#">Редактирование<a> |
+<a href="index.html">Главная<a> | <a href="#">Руководство<a> | <a href="#">Редактирование<a> |
 </p><hr>
 
 
-<center><p><b><big>Важная информация по энтитям:</big></b></p></center>
 
-<p><b>towers_spawn</b> - энтитя которая является местом появления жуков</p>
-<img src="img\towers_spawn_01.jpg">
 
-<p><b>towers_move</b> - по этим энтитям жуки двигаются (напоминает Path_track) , но обратите внимание что под этими порядковыми энтитями должна быть браш энтитя towers_path</p>
-<img src="img\towers_move_01.jpg">
 
-<p><b>towers_nobuild</b> - браш энтитя которая блокирует возможность строительства башен в той или иной зоне</p>
-<img src="img\towers_nobuild_01.jpg">
 
-<p><b>towers_castle</b> - если жук дотрагивается до этой браш энтити то у замка отнимается 1 единица жизни. когда их станет 0 , замок будет разрушен , а игра проигранна и будет возможность рестартовать раунд</p>
-<img src="img\towers_castle_01.jpg">
 
-<p><b>towers_path</b> - браш энтитя по которой жуки могут передвигаться. Используется вместе с towers_move энтитей. Обратите внимание на то что у каждой такой энтити должен быть свой центр а не обший центр со всеми остальными подобными энтитями!</p>
-<img src="img\towers_path_01.jpg">
 
-<center><small><a href="#">AgnesTeam<a></small></center>
+
+
+
+
+</head>
+<body>
+<center>
+
+<u><h4><b>Маппинг под NotSeriousWars: </b></h4></u>
+
+<b><a href="http://www.agnesteam.clan.su/nsw/NotSeriousWars_Vmf_and_fgd_files.rar">Последняя версия исходников и FGD</a></b>
+
+<i><h4>Информация по энтитям:
+</h4></i>
+
+
+<font color="#000000">1.</font> <b>towers_spawn</b> - энтитя которая является местом появления жуков.
+<br><img src="img\towers_spawn_01.jpg">
+
+</br></br><font color="#000000">2.1.</font> <b>towers_move (Старая версия модификации)</b> - по этим энтитям жуки двигаются (напоминает Path_track). Обратите внимание, что под этими порядковыми энтитями должна быть браш энтитя towers_path.
+<br><img src="img\towers_move_01.jpg">
+
+</br></br><font color="#000000">2.2.</font> <b>towers_move (Последняя версия модификации)</b> - по этим энтитям жуки двигаются (напоминает Path_track). Используется 3 энтити на одну позицию, для случайного движения противника (См. схему 1 и Рис. 1). Обратите внимание, что количество этих энтить обязательно должно быть кратно трём и под ними  должна быть браш энтитя towers_path.
+</br></br><font color="#000000" size="2">Схема 1:</font>
+<font size="16">
+</br>ФИНИШ
+</br>|<font color="#FF0000">7 8 9</font>|
+</br>|<font color="#FFFF00">4 5 6</font>|
+</br>|<font color="#00FF00">1 2 3</font>|
+</br>СТАРТ
+</font>
+</br></br><font color="#000000" size="2">Рисунок 1:</font><br>
+<br><img src="img/nsw_mapping_towers_move_001.png" />
+
+</br>
+</br></br><font color="#000000">3.</font> <b>towers_nobuild</b> - браш энтитя которая блокирует возможность строительства башен в той или иной зоне.
+<br><img src="img\towers_nobuild_01.jpg">
+</br></br><font color="#000000">4.</font> <b>towers_castle</b> - если жук дотрагивается до этой браш энтити, то у замка отнимается 1 единица жизни. Когда количество жизней замка упадёт до нулевой отметки, замок 
+будет разрушен , а игра окончена, но у игрока будет возможность начать раунд заново.
+<br><img src="img\towers_castle_01.jpg">
+</br></br><font color="#000000">5.</font> <b>towers_path</b> - браш энтитя по которой жуки могут передвигаться. Используется вместе с towers_move энтитей. Обратите внимание на то, что у каждой такой энтити должен быть свой центр, а не обший центр со всеми остальными подобными энтитями!
+<br><img src="img\towers_path_01.jpg">
+
+
+
+</br></br>
+</center>
+
+	
+<center><small><a href="http://www.agnesteam.org">AgnesTeam (2013)<a></small></center>

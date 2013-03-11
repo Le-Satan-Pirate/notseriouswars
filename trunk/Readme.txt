@@ -1,6 +1,6 @@
-Not Serious Wars dev beta 1
+NotSeriousWars DEV (rev.47)
 
-RTS на Source engine на базе модификации Source towers
+TD на Source engine
 
 Разработчик: AgnesTeam 
-Официальный сайт: http://www.agnesteam.com/
+Официальный сайт: http://nsw.agnesteam.org/
