@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/towers/cricket_body1"
+        "$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[ .75 .75 .75]"
+        "$bumpmap" "models/towers/cricket_body1_bump"
+
+}
