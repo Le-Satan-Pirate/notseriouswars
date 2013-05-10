@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/towers/firetower4_fuelconverter"
+        "$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[ 1.0 1.0 1.0]"
+        "$bumpmap" "models/towers/firetower4_fuelconverter_bump"
+
+}

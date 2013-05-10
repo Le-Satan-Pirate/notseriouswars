@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/towers/gas_burner_misc1"
+        "$bumpmap" "models/towers/gas_burner_misc_bump"
+
+}
