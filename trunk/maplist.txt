@@ -11,8 +11,6 @@ nsw_test
 shake2
 shake
 sourcetowers
-test
-test_trigger
-testt
+
 
 
