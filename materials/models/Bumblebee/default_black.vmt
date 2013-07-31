@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Bumblebee/default_black"
+"$alphatest "1
+"$nocull" "1"
+
+}

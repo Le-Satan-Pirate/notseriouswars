@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Bumblebee/Bumblebee_eyes"
+        "$envmap" "env_cubemap"
+	"$envmaptint" "[ .55 .55 .55]"
+
+}
