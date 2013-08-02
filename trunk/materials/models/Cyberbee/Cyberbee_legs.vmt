@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Cyberbee/Cyberbee_legs"
+        "$envmap" "env_cubemap"
+"$envmapmask" "models/Cyberbee/Cyberbee_legs_spec"
+	"$envmaptint" "[ .55 .55 .55]"
+
+}
