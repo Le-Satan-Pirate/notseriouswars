@@ -1,0 +1,31 @@
+"UnLitTwoTexture"
+{
+	"$basetexture" "models/Cyberbee/Cyberbee_eyes"
+	"$model" 1
+"$selfillum" "1"
+	"$texture2" "models/Cyberbee/eyes_scroll"
+
+	"Proxies"
+	{
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$texture2transform"
+			"texturescrollrate" 1
+			"texturescrollangle" 0
+		}
+
+		"MaterialModify"
+		{
+			// fixme!  This has to be here, or material loading barfs.
+			"dummy" 0
+		}
+	}
+
+
+//        "$envmap" "env_cubemap"
+//	"$normalmapalphaenvmapmask" "1"
+//	"$envmaptint" "[ .4 .4 .4]"
+//        "$bumpmap" "models/Cyberbee/Cyberbee_bump"
+
+}

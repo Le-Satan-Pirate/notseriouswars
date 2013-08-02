@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Cyberbee/Cyberbee_body"
+        "$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[ .4 .4 .4]"
+        "$bumpmap" "models/Cyberbee/Cyberbee_bump"
+
+}
