@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Bumblebee/beehat"
+	"$phong" "1"
+               "$bumpmap" "models/Bumblebee/beehat_bump"
+//               "$basemapalphaphongmask" "1"
+	"$phongexponent" "25"
+	"$phongboost"	"5.5"
+	"$phongfresnelranges"	"[ 0.25 0.9 1.0 ]"
+
+}
