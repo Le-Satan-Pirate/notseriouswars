@@ -23,10 +23,10 @@ Scheme
 
 
 		"Green"			"0 200 0 255"
-		"GreenDim"			"0 200 0 120"
-		"LightGreen"		"0 220 0 128"
+		"GreenDim"			"0 200 0 190"
+		"LightGreen"		"0 220 0 198"
 
-		"TransparentBlack"	"0 0 0 196"
+		"TransparentBlack"	"0 0 0 226"
 		"TransparentLightBlack"	"0 0 0 90"
 
 		"Blank"				"0 0 0 0"
@@ -41,10 +41,10 @@ Scheme
 	// controls use these to determine their settings
 	BaseSettings
 	{
-		"FgColor"			"255 220 0 100"
+		"FgColor"			"255 220 0 200"
 		"BgColor"			"0 0 0 0"
 
-		"Panel.FgColor"			"255 220 0 100"
+		"Panel.FgColor"			"255 220 0 200"
 		"Panel.BgColor"			"0 0 0 0"
 		
 		"BrightFg"		"255 220 0 255"
@@ -81,7 +81,7 @@ Scheme
 
 		CheckButton.TextColor			"Green"
 		CheckButton.SelectedTextColor		"Green"
-		CheckButton.BgColor			"0 128 0 128"
+		CheckButton.BgColor			"0 128 0 198"
 		CheckButton.Border1  			"Border.Dark" 		// the left checkbutton border
 		CheckButton.Border2  			"Border.Bright"		// the right checkbutton border
 		CheckButton.Check			"Green"				// color of the check itself

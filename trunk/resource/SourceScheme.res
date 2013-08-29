@@ -21,7 +21,7 @@ Scheme
 		"DullWhite"			"142 142 142 255"
 		"SGreen"			"255 155 0 255"
 		"Green"			"0 255 0 255"
-		"TransparentBlack"		"0 0 0 128"
+		"TransparentBlack"		"0 0 0 198"
 		"Black"				"0 0 0 255"
 
 		"Blank"				"0 0 0 0"
@@ -53,16 +53,21 @@ Scheme
 		CheckButton.Border2  			"Border.Bright"		// the right checkbutton border
 		CheckButton.Check				"White"				// color of the check itself
 
-		ComboBoxButton.ArrowColor		"DullWhite"
-		ComboBoxButton.ArmedArrowColor	"White"
+		ComboBoxButton.ArrowColor		"TransparentBlack"
+		ComboBoxButton.ArmedArrowColor	"Black"
 		ComboBoxButton.BgColor			"Blank"
 		ComboBoxButton.DisabledBgColor	"Blank"
+
+		//ComboBoxButton.ArrowColor		"DullWhite"
+		//ComboBoxButton.ArmedArrowColor	"White"
+		//ComboBoxButton.BgColor			"Blank"
+		//ComboBoxButton.DisabledBgColor	"Blank"
 
 		Frame.TitleTextInsetX			16
 		Frame.ClientInsetX				8
 		Frame.ClientInsetY				6
-		Frame.BgColor					"0 128 0 128"
-		Frame.OutOfFocusBgColor			"0 128 0 32"
+		Frame.BgColor					"0 128 0 240"
+		Frame.OutOfFocusBgColor			"0 128 0 180"
 		Frame.FocusTransitionEffectTime	"0.3"	// time it takes for a window to fade in/out on focus/out of focus
 		Frame.TransitionEffectTime		"0.3"	// time it takes for a window to fade in/out on open/close
 		Frame.AutoSnapRange				"0"
@@ -99,10 +104,10 @@ Scheme
 		ListPanel.SelectedTextColor			"Black"
 		ListPanel.SelectedBgColor			"Green"
 		ListPanel.SelectedOutOfFocusBgColor	"255 155 0 128"
-		ListPanel.EmptyListInfoTextColor	"OffWhite"
+		ListPanel.EmptyListInfoTextColor	"TransparentBlack"
 
 		Menu.TextColor					"White"
-		Menu.BgColor					"0 128 0 64"
+		Menu.BgColor					"0 64 0 230"
 		Menu.ArmedTextColor				"Black"
 		Menu.ArmedBgColor				"Green"
 		Menu.TextInset					"6"
@@ -128,14 +133,14 @@ Scheme
 		ScrollBar.Wide					17
 
 		ScrollBarButton.FgColor				"White"
-		ScrollBarButton.BgColor				"Blank"
+		ScrollBarButton.BgColor				"0 138 0 230"
 		ScrollBarButton.ArmedFgColor		"White"
-		ScrollBarButton.ArmedBgColor		"Blank"
+		ScrollBarButton.ArmedBgColor		"0 148 0 230"
 		ScrollBarButton.DepressedFgColor	"White"
-		ScrollBarButton.DepressedBgColor	"Blank"
+		ScrollBarButton.DepressedBgColor	"0 148 0 230"
 
 		ScrollBarSlider.FgColor				"Blank"			// nob color
-		ScrollBarSlider.BgColor				"255 255 255 64"	// slider background color
+		ScrollBarSlider.BgColor				"0 128 0 230"	// slider background color
 
 		SectionedListPanel.HeaderTextColor	"White"
 		SectionedListPanel.HeaderBgColor	"Blank"
@@ -161,7 +166,7 @@ Scheme
 		TextEntry.DisabledBgColor	"Blank"
 		TextEntry.SelectedTextColor	"Black"
 		TextEntry.SelectedBgColor	"Green"
-		TextEntry.OutOfFocusSelectedBgColor	"255 155 0 128"
+		TextEntry.OutOfFocusSelectedBgColor	"255 155 0 198"
 		TextEntry.FocusEdgeColor	"0 0 0 196"
 
 		ToggleButton.SelectedTextColor	"White"
@@ -180,7 +185,7 @@ Scheme
 		MainMenu.DepressedTextColor	"192 186 80 255"
 		MainMenu.MenuItemHeight		"30"
 		MainMenu.Inset				"32"
-		MainMenu.Backdrop			"0 0 0 156"
+		MainMenu.Backdrop			"0 0 0 0"
 
 		Console.TextColor			"OffWhite"
 		Console.DevTextColor		"White"
