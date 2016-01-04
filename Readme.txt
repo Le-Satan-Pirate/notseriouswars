@@ -1,6 +1,6 @@
 NotSeriousWars DEV (rev.51)
 
-TD на Source engine
+РњРѕРґРёС„РёРєР°С†РёСЏ РІ Р¶Р°РЅСЂРµ TowerDefence РЅР° Source engine
 
-Разработчик: AgnesTeam 
-Официальный сайт: http://nsw.agnesteam.org/
+Р Р°Р·СЂР°Р±РѕС‚С‡РёРє: AgnesTeam 
+РЎР°Р№С‚: http://nsw.agnesteam.org/
